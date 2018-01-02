@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777091843867",
+    "firebase_url": "https://gainz-2e980.firebaseio.com",
+    "project_id": "gainz-2e980",
+    "storage_bucket": "gainz-2e980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777091843867:android:444b929076494149",
+        "android_client_info": {
+          "package_name": "com.iball.gainz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777091843867-3qh54jqc9fu447nuslu9kb4caqe2tf1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iball.gainz",
+            "certificate_hash": "c0227979f470bdfb90aab428bcda1c5897630695"
+          }
+        },
+        {
+          "client_id": "777091843867-nj2qmcgld7uu0gpgop93g4lecef1ig2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eI_4Qm2tjpM6MJOYVv8uDkeP-G7g3GA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777091843867-nj2qmcgld7uu0gpgop93g4lecef1ig2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
